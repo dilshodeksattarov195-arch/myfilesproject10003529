@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpecrypt",
+        "uuid": 26393391,
+        "checksum": "ccgop"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
